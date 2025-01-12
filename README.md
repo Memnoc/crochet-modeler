@@ -106,38 +106,38 @@ src/
 ## 📦 Dependencies
 
 ```json
-jsonCopy{
-"dependencies": {
-"@radix-ui/react-dialog": "^1.0.4",
-"@radix-ui/react-label": "^2.0.2",
-"@radix-ui/react-select": "^1.2.2",
-"@radix-ui/react-slider": "^1.1.2",
-"@radix-ui/react-slot": "^1.0.2",
-"@radix-ui/react-tabs": "^1.0.4",
-"class-variance-authority": "^0.7.0",
-"clsx": "^2.0.0",
-"framer-motion": "^10.16.4",
-"lucide-react": "^0.290.0",
-"react": "^18.2.0",
-"react-dom": "^18.2.0",
-"tailwind-merge": "^1.14.0",
-"tailwindcss": "^3.3.3"
-},
-"devDependencies": {
-"@types/node": "^20.8.7",
-"@types/react": "^18.2.15",
-"@types/react-dom": "^18.2.7",
-"@typescript-eslint/eslint-plugin": "^6.0.0",
-"@typescript-eslint/parser": "^6.0.0",
-"@vitejs/plugin-react": "^4.0.3",
-"autoprefixer": "^10.4.16",
-"eslint": "^8.45.0",
-"eslint-plugin-react-hooks": "^4.6.0",
-"eslint-plugin-react-refresh": "^0.4.3",
-"postcss": "^8.4.31",
-"typescript": "^5.0.2",
-"vite": "^4.4.5"
-}
+{
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.4",
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-select": "^1.2.2",
+    "@radix-ui/react-slider": "^1.1.2",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-tabs": "^1.0.4",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "framer-motion": "^10.16.4",
+    "lucide-react": "^0.290.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "postcss": "^8.4.31",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
+  }
 }
 ```
 
