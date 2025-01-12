@@ -62,7 +62,7 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-Copysrc/
+src/
 ├── components/
 │ ├── ui/ # shadcn components
 │ │ ├── button.tsx
