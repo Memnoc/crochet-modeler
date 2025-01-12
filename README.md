@@ -61,6 +61,7 @@ npm run dev
 
 ## 📁 Project Structure
 
+```
 Copysrc/
 ├── components/
 │ ├── ui/ # shadcn components
@@ -100,9 +101,11 @@ Copysrc/
 │
 └── styles/ # Global styles
 └── globals.css
+```
 
 ## 📦 Dependencies
 
+```json
 jsonCopy{
 "dependencies": {
 "@radix-ui/react-dialog": "^1.0.4",
@@ -136,6 +139,7 @@ jsonCopy{
 "vite": "^4.4.5"
 }
 }
+```
 
 ## 🤝 Contributing
 
