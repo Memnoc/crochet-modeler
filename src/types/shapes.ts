@@ -40,3 +40,25 @@ export interface Pattern {
     yardage: number;
   };
 }
+
+export type Point3D = {
+  x: number;
+  y: number;
+  z: number;
+};
+
+export type Point2D = {
+  x: number;
+  y: number;
+  z: number;
+};
+
+export type ProjectedPoint = {
+  x: number;
+  y: number;
+};
+
+export type SphereProps = {
+  initialRadius?: number;
+  onPatternGenerate?: (pattern: string[]) => void;
+};
